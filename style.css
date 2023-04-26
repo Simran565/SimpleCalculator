@@ -1,0 +1,73 @@
+body{
+    background-color: burlywood;
+}
+
+.calc
+{
+     
+    text-align: left;
+    margin: 150px auto 100px auto ;
+    background-color: black;
+    width: fit-content;
+    
+}
+
+textarea{
+    width: 345px;
+    height: 100px;
+    margin: 0px;
+    border-radius: 15px;
+    background-color: brown;
+    color: black;
+    text-align: right;
+    font-size: 3rem;
+    padding: 10px;
+   
+
+    
+}
+
+button{
+    color: white;
+    width: 60px;
+    margin: 5px 0px 5px 20px;
+    padding: 10px 0px 10px 0px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.buttons{
+    margin-left: 8px;
+}
+
+button:hover{
+    background-color: #a52a2a;
+}
+
+.top{
+    margin-top: 20px;
+}
+
+
+.c{
+    background-color: grey;
+}
+
+.b{
+    background-color: red;
+}
+
+.d, .del
+{
+    background-color: green;
+    margin-bottom: 20px;
+}
+
+.b, .del{
+    background-color: red;
+}
+
+
